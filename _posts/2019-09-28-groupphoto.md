@@ -1,0 +1,11 @@
+---
+layout: post
+title: '今日科室合照'
+date: 2019-09-28
+author: Xinyi Liu
+color: rgb(255,210,32)
+cover: '../assets/groupphoto.jpeg'
+tags: 科室
+---
+
+### ![今天也是被迫营业的小刘。](../assets/groupphoto.jpeg)
