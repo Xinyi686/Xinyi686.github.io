@@ -1,7 +1,11 @@
 # Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
+title: 'Happy Birthday'
+description: 'Your web description'
+keywords: 'Your web keywords, another keywords'
+# title: 'happy Birthday'
+# description: 'welcome to Sin's birthday party'
+# keywords: 'sin's web page'
+# url: 'https://Xinyi686.github.io' # your host
 url: 'https://abc.github.io' # your host
 
 # nav 中文字符空格：&emsp;
