@@ -2,7 +2,7 @@
 layout: post
 title:  "Happy birthday to Sin!"
 date:   2019-12-13 06:00:00 +0800
-color: rgb(255,90,90)
+color: rgb(255,150,150)
 cover: '../assets/cake.jpg'
 subtitle: 'Happy birthday to Sin!'
 tags: 阿辉的礼物
