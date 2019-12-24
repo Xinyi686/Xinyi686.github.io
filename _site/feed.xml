@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-17T18:31:23+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Happy Birthday</title><subtitle>Welcome to the birthday party</subtitle><author><name>true</name></author><entry><title type="html">Happy birthday to Sin!</title><link href="http://localhost:4000/2019/12/13/happy-birthday.html" rel="alternate" type="text/html" title="Happy birthday to Sin!" /><published>2019-12-13T06:00:00+08:00</published><updated>2019-12-13T06:00:00+08:00</updated><id>http://localhost:4000/2019/12/13/happy-birthday</id><content type="html" xml:base="http://localhost:4000/2019/12/13/happy-birthday.html">&lt;iframe type=&quot;text/html&quot; width=&quot;100%&quot; height=&quot;385&quot; src=&quot;http://www.youtube.com/embed/gfmjMWjn-Xg&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</content><author><name>true</name></author><category term="阿辉的礼物" /><summary type="html"></summary></entry><entry><title type="html">弃医从文</title><link href="http://localhost:4000/2019/12/01/blog.html" rel="alternate" type="text/html" title="弃医从文" /><published>2019-12-01T00:00:00+08:00</published><updated>2019-12-01T00:00:00+08:00</updated><id>http://localhost:4000/2019/12/01/blog</id><content type="html" xml:base="http://localhost:4000/2019/12/01/blog.html">&lt;h2 id=&quot;艾滋病的七大误区&quot;&gt;艾滋病的七大误区&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-24T22:26:32+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Happy Birthday</title><subtitle>Welcome to the birthday party</subtitle><author><name>true</name></author><entry><title type="html">Happy birthday to Sin!</title><link href="http://localhost:4000/2019/12/13/happy-birthday.html" rel="alternate" type="text/html" title="Happy birthday to Sin!" /><published>2019-12-13T06:00:00+08:00</published><updated>2019-12-13T06:00:00+08:00</updated><id>http://localhost:4000/2019/12/13/happy-birthday</id><content type="html" xml:base="http://localhost:4000/2019/12/13/happy-birthday.html">&lt;!-- &lt;iframe type=&quot;text/html&quot; width=&quot;100%&quot; height=&quot;385&quot; src=&quot;http://www.youtube.com/embed/gfmjMWjn-Xg&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; --&gt;
+
+&lt;!-- &lt;a href='https://gif-free.com/1095-happy-birthday-from-minions.html' target='_blank'&gt;
+	&lt;img src='https://gif-free.com/uploads/posts/2017-11/1509527261_happy-birthday-minions.gif' width=&quot;80%&quot;&gt;
+&lt;/a&gt; --&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/hb2.gif&quot; alt=&quot;2&quot; height=&quot;50%&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- ![2](/assets/hb1.gif) --&gt;
+
+&lt;!-- ![2](/assets/hb4.gif){:height=&quot;50%&quot; width=&quot;80%&quot;} --&gt;</content><author><name>true</name></author><category term="阿辉的礼物" /><summary type="html"></summary></entry><entry><title type="html">弃医从文</title><link href="http://localhost:4000/2019/12/01/blog.html" rel="alternate" type="text/html" title="弃医从文" /><published>2019-12-01T00:00:00+08:00</published><updated>2019-12-01T00:00:00+08:00</updated><id>http://localhost:4000/2019/12/01/blog</id><content type="html" xml:base="http://localhost:4000/2019/12/01/blog.html">&lt;h1 id=&quot;纪念小刘的科普博客哈哈&quot;&gt;纪念小刘的科普博客，哈哈&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/aids.webp&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;艾滋病的七大误区&quot;&gt;艾滋病的七大误区&lt;/h2&gt;
 
 &lt;h3 id=&quot;感染hiv就是就是得了艾滋病&quot;&gt;感染HIV就是就是得了艾滋病&lt;/h3&gt;
 
@@ -23,13 +34,24 @@
 
 &lt;h3 id=&quot;高危行为后没办法预防感染艾滋病&quot;&gt;高危行为后没办法预防感染艾滋病&lt;/h3&gt;
 
-&lt;p&gt;HIV属于逆转录病毒，从“经过粘膜、创伤等处进入人体血液”到“构成HIV感染”，需经过7个进程，中止这7个进程中的某一步，就能防止HIV传染。凡是接触了HIV感染者的血液，生殖道分泌物或与其共用注射器针头等的人员应尽早预防用药。目前有效阻断时机，为高危行为后72小时内，越早越好。&lt;/p&gt;</content><author><name>Xinyi Liu</name></author><category term="科室" /><category term="天天写推文" /><summary type="html">艾滋病的七大误区 感染HIV就是就是得了艾滋病 两者不能直接划等号，HIV携带者要经过数年、甚至长达10年或者更长的潜伏期后才会发展成为艾滋病患者。 根据艾滋病的“早期症状”判别艾滋病 判断艾滋病必须通过专门的检查，过分强调“早期症状“容易给病人或者易感人群带来心理压力。 使用安全套的性行为不需要保护措施 没有任何研究表明，安全套可以百分百的阻断艾滋病的传播。 感染HIV后就只剩几年可活了 事实上，很多人感染HIV或者患艾滋病之后，还可以生活很多年，并且能过着正常或几乎正常的生活。及时看医生并且遵医嘱，能帮助缓解HIV感染发展至艾滋的过程。艾滋病虽然还不能被治愈，但是是可治疗的，只要合理坚持治疗，HIV患者的寿命已经和正常人没有太大的区别了。 感染HIV者不能要孩子 感染HIV的女性的确可能在孕期或者分娩时把HIV病毒传播给自己的宝宝。但是，通过母婴阻断或者精子洗涤技术，HIV阳性的父母可以生出HIV阴性健康的宝宝的可能性还是非常大的。”不做任何干预措施，HIV母婴传播的概率在15%-45%之间。但如果在孕前或者孕期进行及时干预措施，感染风险可以控制在5%以下，有些情况甚至可以低于1%。” 高危行为后没办法预防感染艾滋病 HIV属于逆转录病毒，从“经过粘膜、创伤等处进入人体血液”到“构成HIV感染”，需经过7个进程，中止这7个进程中的某一步，就能防止HIV传染。凡是接触了HIV感染者的血液，生殖道分泌物或与其共用注射器针头等的人员应尽早预防用药。目前有效阻断时机，为高危行为后72小时内，越早越好。</summary></entry><entry><title type="html">俺是这条gai最靓的崽</title><link href="http://localhost:4000/2019/11/30/shopping.html" rel="alternate" type="text/html" title="俺是这条gai最靓的崽" /><published>2019-11-30T00:00:00+08:00</published><updated>2019-11-30T00:00:00+08:00</updated><id>http://localhost:4000/2019/11/30/shopping</id><content type="html" xml:base="http://localhost:4000/2019/11/30/shopping.html">&lt;h2 id=&quot;逛街前&quot;&gt;逛街前&lt;/h2&gt;
+&lt;p&gt;HIV属于逆转录病毒，从“经过粘膜、创伤等处进入人体血液”到“构成HIV感染”，需经过7个进程，中止这7个进程中的某一步，就能防止HIV传染。凡是接触了HIV感染者的血液，生殖道分泌物或与其共用注射器针头等的人员应尽早预防用药。目前有效阻断时机，为高危行为后72小时内，越早越好。&lt;/p&gt;</content><author><name>Xinyi Liu</name></author><category term="科室" /><category term="天天写推文" /><summary type="html">纪念小刘的科普博客，哈哈 艾滋病的七大误区 感染HIV就是就是得了艾滋病 两者不能直接划等号，HIV携带者要经过数年、甚至长达10年或者更长的潜伏期后才会发展成为艾滋病患者。 根据艾滋病的“早期症状”判别艾滋病 判断艾滋病必须通过专门的检查，过分强调“早期症状“容易给病人或者易感人群带来心理压力。 使用安全套的性行为不需要保护措施 没有任何研究表明，安全套可以百分百的阻断艾滋病的传播。 感染HIV后就只剩几年可活了 事实上，很多人感染HIV或者患艾滋病之后，还可以生活很多年，并且能过着正常或几乎正常的生活。及时看医生并且遵医嘱，能帮助缓解HIV感染发展至艾滋的过程。艾滋病虽然还不能被治愈，但是是可治疗的，只要合理坚持治疗，HIV患者的寿命已经和正常人没有太大的区别了。 感染HIV者不能要孩子 感染HIV的女性的确可能在孕期或者分娩时把HIV病毒传播给自己的宝宝。但是，通过母婴阻断或者精子洗涤技术，HIV阳性的父母可以生出HIV阴性健康的宝宝的可能性还是非常大的。”不做任何干预措施，HIV母婴传播的概率在15%-45%之间。但如果在孕前或者孕期进行及时干预措施，感染风险可以控制在5%以下，有些情况甚至可以低于1%。” 高危行为后没办法预防感染艾滋病 HIV属于逆转录病毒，从“经过粘膜、创伤等处进入人体血液”到“构成HIV感染”，需经过7个进程，中止这7个进程中的某一步，就能防止HIV传染。凡是接触了HIV感染者的血液，生殖道分泌物或与其共用注射器针头等的人员应尽早预防用药。目前有效阻断时机，为高危行为后72小时内，越早越好。</summary></entry><entry><title type="html">俺是这条gai最靓的崽</title><link href="http://localhost:4000/2019/11/30/shopping.html" rel="alternate" type="text/html" title="俺是这条gai最靓的崽" /><published>2019-11-30T00:00:00+08:00</published><updated>2019-11-30T00:00:00+08:00</updated><id>http://localhost:4000/2019/11/30/shopping</id><content type="html" xml:base="http://localhost:4000/2019/11/30/shopping.html">&lt;h2 id=&quot;逛街前&quot;&gt;逛街前&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/bshop.jpeg&quot; alt=&quot;逛街前&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;逛街后&quot;&gt;逛街后&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/ashop.jpeg&quot; alt=&quot;逛街前&quot; /&gt;&lt;/p&gt;</content><author><name>Xinyi Liu</name></author><category term="逛gai" /><summary type="html">逛街前 逛街后</summary></entry><entry><title type="html">今日科室合照</title><link href="http://localhost:4000/2019/09/28/group.html" rel="alternate" type="text/html" title="今日科室合照" /><published>2019-09-28T00:00:00+08:00</published><updated>2019-09-28T00:00:00+08:00</updated><id>http://localhost:4000/2019/09/28/group</id><content type="html" xml:base="http://localhost:4000/2019/09/28/group.html">&lt;h3 id=&quot;今天也是被迫营业的小刘&quot;&gt;今天也是被迫营业的小刘。&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/ashop.jpeg&quot; alt=&quot;逛街前&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;小刘去重庆啦啦啦啦啦&quot;&gt;小刘去重庆啦啦啦啦啦&lt;/h2&gt;
+
+&lt;div style=&quot;float:left;border:solid 1px 000;margin:2px;&quot;&gt;&lt;img src=&quot;/assets/cq1.jpg&quot; alt=&quot;screenshot&quot; title=&quot;screenshot&quot; height=&quot;260&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left;border:solid 1px 000;margin:2px;&quot;&gt;&lt;img src=&quot;/assets/cq2.jpg&quot; alt=&quot;screenshot&quot; title=&quot;screenshot&quot; height=&quot;260&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left;border:solid 1px 000;margin:2px;&quot;&gt;&lt;img src=&quot;/assets/cq3.jpg&quot; alt=&quot;screenshot&quot; title=&quot;screenshot&quot; height=&quot;202&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left;border:solid 1px 000;margin:2px;&quot;&gt;&lt;img src=&quot;/assets/cq5.jpg&quot; alt=&quot;screenshot&quot; title=&quot;screenshot&quot; height=&quot;202&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left;border:solid 1px 000;margin:2px;&quot;&gt;&lt;img src=&quot;/assets/cq4.jpg&quot; alt=&quot;screenshot&quot; title=&quot;screenshot&quot; height=&quot;202&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left;border:solid 1px 000;margin:2px;&quot;&gt;&lt;img src=&quot;/assets/cq6.jpg&quot; alt=&quot;screenshot&quot; title=&quot;screenshot&quot; height=&quot;260&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left;border:solid 1px 000;margin:2px;&quot;&gt;&lt;img src=&quot;/assets/cq7.jpg&quot; alt=&quot;screenshot&quot; title=&quot;screenshot&quot; height=&quot;260&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;</content><author><name>Xinyi Liu</name></author><category term="逛gai" /><summary type="html">逛街前 逛街后 小刘去重庆啦啦啦啦啦</summary></entry><entry><title type="html">今日科室合照</title><link href="http://localhost:4000/2019/09/28/group.html" rel="alternate" type="text/html" title="今日科室合照" /><published>2019-09-28T00:00:00+08:00</published><updated>2019-09-28T00:00:00+08:00</updated><id>http://localhost:4000/2019/09/28/group</id><content type="html" xml:base="http://localhost:4000/2019/09/28/group.html">&lt;h3 id=&quot;今天也是被迫营业的小刘&quot;&gt;今天也是被迫营业的小刘。&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/groupphoto.jpeg&quot; alt=&quot;今天也是被迫营业的小刘。&quot; /&gt;&lt;/p&gt;</content><author><name>Xinyi Liu</name></author><category term="科室" /><summary type="html">今天也是被迫营业的小刘。</summary></entry><entry><title type="html">玩儿</title><link href="http://localhost:4000/2019/08/28/playing.html" rel="alternate" type="text/html" title="玩儿" /><published>2019-08-28T00:00:00+08:00</published><updated>2019-08-28T00:00:00+08:00</updated><id>http://localhost:4000/2019/08/28/playing</id><content type="html" xml:base="http://localhost:4000/2019/08/28/playing.html">&lt;h3 id=&quot;小刘的滑板时尚时尚最时尚&quot;&gt;小刘的滑板时尚时尚最时尚～&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/board.jpeg&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
@@ -41,15 +63,24 @@
 
 &lt;h2 id=&quot;灵魂拷问2017-11-23-2137&quot;&gt;灵魂拷问（2017-11-23 21:37）&lt;/h2&gt;
 
-&lt;h2 id=&quot;伤心再不念书我是2017-12-5-2246&quot;&gt;[伤心]再不念书我是🐷（2017-12-5 22:46）&lt;/h2&gt;
+&lt;h2 id=&quot;再不念书我是2017-12-5-2246&quot;&gt;💔再不念书我是🐷（2017-12-5 22:46）&lt;/h2&gt;
 
-&lt;h2 id=&quot;只要每天晚上认真学习我就可以达成早睡成就alohaalohaaloha2018-10-30-0712&quot;&gt;只要每天晚上认真学习我就可以达成早睡成就[Aloha][Aloha][Aloha]（2018-10-30 07:12）&lt;/h2&gt;
+&lt;h2 id=&quot;只要每天晚上认真学习我就可以达成早睡成就2018-10-30-0712&quot;&gt;只要每天晚上认真学习我就可以达成早睡成就（2018-10-30 07:12）&lt;/h2&gt;
 
-&lt;h2 id=&quot;我哥说你考试的样子好像cxk啊吃瓜-2019-6-13-1850&quot;&gt;我哥说，你考试的样子，好像cxk啊[吃瓜] ​​​​（2019-6-13 18:50）&lt;/h2&gt;</content><author><name>Xinyi Liu</name></author><category term="好好学习不许睡觉" /><summary type="html">这两天脸上长两颗很痛的痘痘，不开心，不想念书（2017-10-17 17:08） 灵魂拷问（2017-11-23 21:37） [伤心]再不念书我是🐷（2017-12-5 22:46） 只要每天晚上认真学习我就可以达成早睡成就[Aloha][Aloha][Aloha]（2018-10-30 07:12） 我哥说，你考试的样子，好像cxk啊[吃瓜] ​​​​（2019-6-13 18:50）</summary></entry><entry><title type="html">我有上天的办法</title><link href="http://localhost:4000/2016/06/22/skills.html" rel="alternate" type="text/html" title="我有上天的办法" /><published>2016-06-22T00:00:00+08:00</published><updated>2016-06-22T00:00:00+08:00</updated><id>http://localhost:4000/2016/06/22/skills</id><content type="html" xml:base="http://localhost:4000/2016/06/22/skills.html">&lt;h2 id=&quot;炫耀一波灵魂画手2016-6-22-1421&quot;&gt;炫耀一波灵魂画手（2016-6-22 14:21）&lt;/h2&gt;
+&lt;h2 id=&quot;我哥说你考试的样子好像cxk啊-2019-6-13-1850&quot;&gt;我哥说，你考试的样子，好像cxk啊🍉🍉🍉 ​​​​（2019-6-13 18:50）&lt;/h2&gt;</content><author><name>Xinyi Liu</name></author><category term="好好学习不许睡觉" /><summary type="html">这两天脸上长两颗很痛的痘痘，不开心，不想念书（2017-10-17 17:08） 灵魂拷问（2017-11-23 21:37） 💔再不念书我是🐷（2017-12-5 22:46） 只要每天晚上认真学习我就可以达成早睡成就（2018-10-30 07:12） 我哥说，你考试的样子，好像cxk啊🍉🍉🍉 ​​​​（2019-6-13 18:50）</summary></entry><entry><title type="html">我有上天的办法</title><link href="http://localhost:4000/2016/06/22/skills.html" rel="alternate" type="text/html" title="我有上天的办法" /><published>2016-06-22T00:00:00+08:00</published><updated>2016-06-22T00:00:00+08:00</updated><id>http://localhost:4000/2016/06/22/skills</id><content type="html" xml:base="http://localhost:4000/2016/06/22/skills.html">&lt;h2 id=&quot;炫耀一波灵魂画手2016-6-22-1421&quot;&gt;炫耀一波灵魂画手（2016-6-22 14:21）&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/skill.jpg&quot; alt=&quot;灵魂画手&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/skill.jpg&quot; alt=&quot;灵魂画手&quot; /&gt;&lt;/p&gt;</content><author><name>Xinyi Liu</name></author><category term="样样精通" /><summary type="html">炫耀一波灵魂画手（2016-6-22 14:21）</summary></entry><entry><title type="html">黑暗大魔法师</title><link href="http://localhost:4000/2015/07/24/amazing.html" rel="alternate" type="text/html" title="黑暗大魔法师" /><published>2015-07-24T00:00:00+08:00</published><updated>2015-07-24T00:00:00+08:00</updated><id>http://localhost:4000/2015/07/24/amazing</id><content type="html" xml:base="http://localhost:4000/2015/07/24/amazing.html">&lt;h2 id=&quot;咩哈哈哈哈才知道在有些人心中小爷竟然是绿茶婊的形象小爷表示被解锁了奇怪的g点莫名带感嘻嘻要努力更加高级咩2015-7-24-1712&quot;&gt;咩哈哈哈哈，才知道在有些人心中小爷竟然是绿茶婊的形象，小爷表示被解锁了奇怪的G点，莫名带感[嘻嘻]。要努力更加高级咩！（2015-7-24 17:12）&lt;/h2&gt;
+&lt;h2 id=&quot;小刘要有证啦不再是赤脚大夫啦-2019-9-25-1856&quot;&gt;小刘要有证啦，不再是赤脚大夫啦🆒 （2019-9-25 18:56）&lt;/h2&gt;
+&lt;h2 id=&quot;今天是个合格的外卖小姐妹2019-10-3-1737&quot;&gt;今天是个合格的外卖小姐妹💐（2019-10-3 17:37）&lt;/h2&gt;
+&lt;div style=&quot;float:left;border:solid 1px 000;margin:2px;&quot;&gt;&lt;img src=&quot;/assets/wm1.jpeg&quot; alt=&quot;screenshot&quot; title=&quot;screenshot&quot; width=&quot;400&quot; height=&quot;260&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left;border:solid 1px 000;margin:2px;&quot;&gt;&lt;img src=&quot;/assets/wm2.jpeg&quot; alt=&quot;screenshot&quot; title=&quot;screenshot&quot; width=&quot;200&quot; height=&quot;260&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;本天才的名号被人抢了只能委屈得改名叫刘半仙泪泪泪泪泪伤心2016-1-4-2350&quot;&gt;本天才的名号被人抢了，只能委屈得改名叫刘半仙[泪][泪][泪][泪][泪][伤心]（2016-1-4 23:50）&lt;/h2&gt;
+&lt;h2 id=&quot;博主画的好好看的黄绿色眼影在我眼睛上跟被打了一样2019-12-22-1121&quot;&gt;博主画的好好看的黄绿色眼影在我眼睛上跟被打了一样👋（2019-12-22 11:21）&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/skill.jpg&quot; alt=&quot;灵魂画手&quot; /&gt;&lt;/p&gt;</content><author><name>Xinyi Liu</name></author><category term="样样精通" /><summary type="html">炫耀一波灵魂画手（2016-6-22 14:21） 小刘要有证啦，不再是赤脚大夫啦🆒 （2019-9-25 18:56） 今天是个合格的外卖小姐妹💐（2019-10-3 17:37） 博主画的好好看的黄绿色眼影在我眼睛上跟被打了一样👋（2019-12-22 11:21）</summary></entry><entry><title type="html">大魔法师</title><link href="http://localhost:4000/2015/07/24/amazing.html" rel="alternate" type="text/html" title="大魔法师" /><published>2015-07-24T00:00:00+08:00</published><updated>2015-07-24T00:00:00+08:00</updated><id>http://localhost:4000/2015/07/24/amazing</id><content type="html" xml:base="http://localhost:4000/2015/07/24/amazing.html">&lt;h2 id=&quot;咩哈哈哈哈才知道在有些人心中小爷竟然是绿茶婊的形象小爷表示被解锁了奇怪的g点莫名带感要努力更加高级咩2015-7-24-1712&quot;&gt;咩哈哈哈哈，才知道在有些人心中小爷竟然是绿茶婊的形象，小爷表示被解锁了奇怪的G点，莫名带感😁。要努力更加高级咩！（2015-7-24 17:12）&lt;/h2&gt;
+
+&lt;h2 id=&quot;本天才的名号被人抢了只能委屈得改名叫刘半仙2016-1-4-2350&quot;&gt;本天才的名号被人抢了，只能委屈得改名叫刘半仙😢😢💔（2016-1-4 23:50）&lt;/h2&gt;
 
 &lt;h2 id=&quot;怎么样才能变成男孩子呢2017-6-11-1016&quot;&gt;怎么样，才能变成男孩子呢（2017-6-11 10:16）&lt;/h2&gt;
 
@@ -61,23 +92,26 @@
 &lt;h2 id=&quot;我从邪不压正里竟然看出了浪漫2018-7-20-1802&quot;&gt;我从邪不压正里竟然看出了浪漫（2018-7-20 18:02）&lt;/h2&gt;
 
 &lt;h2 id=&quot;这群名让我怀疑自己是个洗头小妹2018-8-6-1310&quot;&gt;这群名让我怀疑自己是个洗头小妹（2018-8-6 13:10）&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/2018-8-6%2013-10.jpg&quot; alt=&quot;江南秀&quot; /&gt;&lt;/p&gt;
+&lt;div style=&quot;float:left;border:solid 1px 000;margin:2px;&quot;&gt;&lt;img src=&quot;/assets/2018-8-6 13-10.jpg&quot; alt=&quot;screenshot&quot; title=&quot;screenshot&quot; width=&quot;400&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left;border:solid 1px 000;margin:2px;&quot;&gt;&lt;img src=&quot;/assets/2018-8-20 15-37.jpg&quot; alt=&quot;screenshot&quot; title=&quot;screenshot&quot; width=&quot;320&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;在科里玩小朋友椰子鼓的怪阿姨耶2018-8-20-1537&quot;&gt;在科里玩小朋友椰子鼓的怪阿姨[耶]（2018-8-20 15:37）&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/2018-8-20%2015-37.jpg&quot; alt=&quot;2&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;在科里玩小朋友椰子鼓的怪阿姨️2018-8-20-1537&quot;&gt;在科里玩小朋友椰子鼓的怪阿姨✌️（2018-8-20 15:37）&lt;/h2&gt;
 
-&lt;h2 id=&quot;穷则独善其身富则包小白脸耶2018-8-27-0933&quot;&gt;穷则独善其身，富则包小白脸[耶]（2018-8-27 09:33）&lt;/h2&gt;
+&lt;h2 id=&quot;穷则独善其身富则包小白脸️2018-8-27-0933&quot;&gt;穷则独善其身，富则包小白脸✌️（2018-8-27 09:33）&lt;/h2&gt;
 
 &lt;h2 id=&quot;在跳舞的小刘像一块会抢拍的木板2018-9-27-1755&quot;&gt;在跳舞的小刘，像一块会抢拍的木板（2018-9-27 17:55）&lt;/h2&gt;
 
-&lt;h2 id=&quot;做个牛逼的少女2018-12-8-2244&quot;&gt;做个牛逼的少女（2018-12-8 22:44）&lt;/h2&gt;
+&lt;h2 id=&quot;做个牛逼的少女2018-12-8-2244&quot;&gt;做个牛逼的少女（2018-12-8 22:44）&lt;/h2&gt;</content><author><name>Xinyi Liu</name></author><category term="大魔法师" /><summary type="html">咩哈哈哈哈，才知道在有些人心中小爷竟然是绿茶婊的形象，小爷表示被解锁了奇怪的G点，莫名带感😁。要努力更加高级咩！（2015-7-24 17:12） 本天才的名号被人抢了，只能委屈得改名叫刘半仙😢😢💔（2016-1-4 23:50） 怎么样，才能变成男孩子呢（2017-6-11 10:16） Spencccer:我也超爱他！ Sin:嘻嘻嘻，一起想办法变成小哥哥 大家好我是来自非洲的勇敢刘（2018-5-21 20:51） 我从邪不压正里竟然看出了浪漫（2018-7-20 18:02） 这群名让我怀疑自己是个洗头小妹（2018-8-6 13:10） 在科里玩小朋友椰子鼓的怪阿姨✌️（2018-8-20 15:37） 穷则独善其身，富则包小白脸✌️（2018-8-27 09:33） 在跳舞的小刘，像一块会抢拍的木板（2018-9-27 17:55） 做个牛逼的少女（2018-12-8 22:44）</summary></entry><entry><title type="html">减肥是一辈子的事</title><link href="http://localhost:4000/2015/03/09/keepfit.html" rel="alternate" type="text/html" title="减肥是一辈子的事" /><published>2015-03-09T00:00:00+08:00</published><updated>2015-03-09T00:00:00+08:00</updated><id>http://localhost:4000/2015/03/09/keepfit</id><content type="html" xml:base="http://localhost:4000/2015/03/09/keepfit.html">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/2018-12-8%2022-44.jpg&quot; alt=&quot;1&quot; height=&quot;50%&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/2018-12-8%2022-44.jpg&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;</content><author><name>Xinyi Liu</name></author><category term="黑暗大魔法师" /><summary type="html">咩哈哈哈哈，才知道在有些人心中小爷竟然是绿茶婊的形象，小爷表示被解锁了奇怪的G点，莫名带感[嘻嘻]。要努力更加高级咩！（2015-7-24 17:12） 本天才的名号被人抢了，只能委屈得改名叫刘半仙[泪][泪][泪][泪][泪][伤心]（2016-1-4 23:50） 怎么样，才能变成男孩子呢（2017-6-11 10:16） Spencccer:我也超爱他！ Sin:嘻嘻嘻，一起想办法变成小哥哥 大家好我是来自非洲的勇敢刘（2018-5-21 20:51） 我从邪不压正里竟然看出了浪漫（2018-7-20 18:02） 这群名让我怀疑自己是个洗头小妹（2018-8-6 13:10） 在科里玩小朋友椰子鼓的怪阿姨[耶]（2018-8-20 15:37） 穷则独善其身，富则包小白脸[耶]（2018-8-27 09:33） 在跳舞的小刘，像一块会抢拍的木板（2018-9-27 17:55） 做个牛逼的少女（2018-12-8 22:44）</summary></entry><entry><title type="html">减肥是一辈子的事</title><link href="http://localhost:4000/2015/03/09/keepfit.html" rel="alternate" type="text/html" title="减肥是一辈子的事" /><published>2015-03-09T00:00:00+08:00</published><updated>2015-03-09T00:00:00+08:00</updated><id>http://localhost:4000/2015/03/09/keepfit</id><content type="html" xml:base="http://localhost:4000/2015/03/09/keepfit.html">&lt;h2 id=&quot;不能只有我一个人减肥2015-3-9-2148&quot;&gt;不能只有我一个人减肥（2015-3-9 21:48）&lt;/h2&gt;
+&lt;h2 id=&quot;不能只有我一个人减肥2015-3-9-2148&quot;&gt;不能只有我一个人减肥（2015-3-9 21:48）&lt;/h2&gt;
 
 &lt;h2 id=&quot;新年拒绝做毒瘤2018-2-24-1416&quot;&gt;新年拒绝做毒瘤（2018-2-24 14:16）&lt;/h2&gt;
 
 &lt;h2 id=&quot;自己做饭第一天把自己烫伤研究周围外卖大概未来会变成肥婆外卖也太好了2018-8-14-1840&quot;&gt;自己做饭第一天，把自己烫伤，研究周围外卖，大概未来会变成肥婆。外卖也太好了（2018-8-14 18:40）&lt;/h2&gt;
 
-&lt;h2 id=&quot;好想体验一下90斤少女的生活伤心-2018-11-4-1504&quot;&gt;好想体验一下90斤少女的生活[伤心] ​​​（2018-11-4 15:04）&lt;/h2&gt;
+&lt;h2 id=&quot;好想体验一下90斤少女的生活-2018-11-4-1504&quot;&gt;好想体验一下90斤少女的生活💔 ​​​（2018-11-4 15:04）&lt;/h2&gt;
 
-&lt;h2 id=&quot;一个毒誓不减肥就去死微笑-2019-6-26-2259&quot;&gt;一个毒誓：不减肥，就去死[微笑] ​​​​（2019-6-26 22:59）&lt;/h2&gt;</content><author><name>Xinyi Liu</name></author><category term="减肥" /><summary type="html">不能只有我一个人减肥（2015-3-9 21:48） 新年拒绝做毒瘤（2018-2-24 14:16） 自己做饭第一天，把自己烫伤，研究周围外卖，大概未来会变成肥婆。外卖也太好了（2018-8-14 18:40） 好想体验一下90斤少女的生活[伤心] ​​​（2018-11-4 15:04） 一个毒誓：不减肥，就去死[微笑] ​​​​（2019-6-26 22:59）</summary></entry></feed>
+&lt;h2 id=&quot;一个毒誓不减肥就去死-2019-6-26-2259&quot;&gt;一个毒誓：不减肥，就去死😊 ​​​​（2019-6-26 22:59）&lt;/h2&gt;
+
+&lt;h2 id=&quot;想吃松鼠桂鱼想到头秃-2019-11-12-2230&quot;&gt;想吃松鼠桂鱼想到头秃🙉 ​​​​（2019-11-12 22:30）&lt;/h2&gt;</content><author><name>Xinyi Liu</name></author><category term="减肥" /><summary type="html">不能只有我一个人减肥（2015-3-9 21:48） 新年拒绝做毒瘤（2018-2-24 14:16） 自己做饭第一天，把自己烫伤，研究周围外卖，大概未来会变成肥婆。外卖也太好了（2018-8-14 18:40） 好想体验一下90斤少女的生活💔 ​​​（2018-11-4 15:04） 一个毒誓：不减肥，就去死😊 ​​​​（2019-6-26 22:59） 想吃松鼠桂鱼想到头秃🙉 ​​​​（2019-11-12 22:30）</summary></entry></feed>
