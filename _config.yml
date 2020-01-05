@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'Sin's home'
+title: 'Sin home'
 description: 'Welcome to Sin's home'
 keywords: 'Personal Webpage'
 url: 'https://xinyi686.github.io' # your host
@@ -14,7 +14,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: '刘心仪'
+name: '刘心怡'
 NickName: 'Sin'
 webtitle: '常回家看看，回家看看'
 bio: '我是你爸爸'
