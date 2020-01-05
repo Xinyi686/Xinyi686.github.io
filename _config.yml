@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'Sin home'
-description: 'Welcome to Sin's home'
+description: 'Welcome to Sin home'
 keywords: 'Personal Webpage'
 url: 'https://xinyi686.github.io' # your host
 
@@ -16,7 +16,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'Xinyi Liu'
 NickName: 'Sin'
-webtitle: '~'
+webtitle: 'Hellow World'
 bio: '我是你爸爸'
 about: true
 aboutyou: '我是南京医科大学的优秀毕业生，目前在常州XX医院写博文～'
